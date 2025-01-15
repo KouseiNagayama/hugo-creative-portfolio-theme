@@ -66,6 +66,3 @@ googleAnalytics = ""
   gitlab        = "full profile url in gitlab"
   youtube       = "full profile url in youtube"
   whatsapp      = "wa.me service link"
-
-  [markup.goldmark.renderer]
-    unsafe = true
